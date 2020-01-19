@@ -1,15 +1,13 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'jekyll-theme-so-simple'
+# use local theme gem for testing
+gem 'jekyll-theme-so-simple', path: '../'
 
-gem 'jekyll'
-
-gem "github-pages"
-
-# Official Plugins
 group :jekyll_plugins do
     gem 'jekyll-paginate'
-end
+  end
 
+gem 'wdm', '~> 0.1.0' if Gem.win_platform?  
 
-# gemspec
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
