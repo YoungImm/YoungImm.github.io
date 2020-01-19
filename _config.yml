@@ -16,7 +16,7 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: ko_KR #en-US
+locale: UTF-8 #en-US
 title: "Young Blog"
 description: "Programming, Algorithm Blog"
 baseurl: # the subpath of your site, e.g. "/blog"
