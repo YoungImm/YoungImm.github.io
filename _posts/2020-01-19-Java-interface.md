@@ -1,8 +1,12 @@
 ---
 title: "Java, 인터페이스"
+# excerpt_separator: "<!--more-->"
 date: 2020-01-18 10:33:00 +0800
-categories: [Java, 인터페이스]
-tags: [Java, 인터페이스]
+categories: 
+  - Java
+tags: 
+  - Java
+  - 인터페이스
 ---
 
 ## 인터페이스?

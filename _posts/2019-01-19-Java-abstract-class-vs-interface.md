@@ -1,8 +1,11 @@
 ---
 title: "Java, 추상클래스 vs 인터페이스"
 date: 2020-01-18 13:30:00 +0800
-categories: [Java, 추상 클래스 vs 인터페이스]
-tags: [Java, 추상 클래스 vs 인터페이스]
+categories: 
+  - Java
+tags: 
+  - Java
+  - 추상 클래스 vs 인터페이스
 ---
 
 ## 추상클래스 vs 인터페이스

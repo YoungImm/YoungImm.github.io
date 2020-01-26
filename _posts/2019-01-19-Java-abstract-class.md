@@ -1,8 +1,11 @@
 ---
 title: "Java, 추상클래스"
 date: 2020-01-18 11:33:00 +0800
-categories: [Java, 추상 클래스]
-tags: [Java, 추상 클래스]
+categories: 
+  - Java
+tags: 
+  - Java
+  - 추상클래스
 ---
 
 ## 추상클래스?

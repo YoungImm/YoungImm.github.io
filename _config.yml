@@ -16,7 +16,7 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: en-US
+locale: ko_KR #en-US
 title: "Young Blog"
 description: "Development, Algorithm"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ read_time: true
 words_per_minute: 200
 mathjax: true
 google_fonts:
-  - name: "Nanum Gothic"
+  - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
@@ -107,12 +107,12 @@ author:
   email: sw002106@gmail.com
   links:
     - title: GitHub
-      url: https://github.com/JaeYoungIm
+      url: https://github.com/YoungImm
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: GitHub
-    url: https://github.com/JaeYoungIm
+    url: https://github.com/YoungImm
     icon: fab fa-github-square
 

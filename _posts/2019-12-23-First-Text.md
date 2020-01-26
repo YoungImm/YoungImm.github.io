@@ -1,11 +1,13 @@
 ---
 title: "첫 게시글"
 date: 2019-12-23 11:33:00 +0800
-categories: [Blog, Daily]
-tags: [Blog, Daily]
+categories: 
+  - Daily
+tags: 
+  - Daily
 ---
 
-### Jekyll을 사용해 첫 블로그 게시물 등록.
+### Jekyll을 사용해 첫 블로그 게시물 등록
 
 ***
  첫 블로그 게시물 등록에 성공했습니다.
