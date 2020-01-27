@@ -37,6 +37,11 @@ disqus:
 twitter:
   username: mmistakes # site's Twitter username
 
+#timezone
+timezone: Asia/Seoul
+
+future: true
+
 # Liquid
 liquid:
   error_mode: strict
