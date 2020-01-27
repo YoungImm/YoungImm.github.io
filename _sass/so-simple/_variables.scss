@@ -3,6 +3,9 @@
    ========================================================================== */
 
 /* Breakpoint widths */
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap&subset=korean');
+
 $small: 320px !default;
 $medium: 768px !default;
 $large: 1024px !default;
@@ -38,7 +41,7 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Lora", Nanum Gothic !default;
+$serif-font-family: "Nanum Gothic", serif !default;
 $sans-serif-font-family: "Nanum Gothic", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
